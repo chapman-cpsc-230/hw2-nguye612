@@ -23,5 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
 Signed,
-
 <Stephanie Nguyen>
